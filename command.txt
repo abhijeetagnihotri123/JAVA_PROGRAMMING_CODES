@@ -1,0 +1,3 @@
+#to run a java program run the following command
+javac <java_file>.java
+java <executable_named_with_class>
