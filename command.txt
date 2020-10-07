@@ -1,3 +1,5 @@
 #to run a java program run the following command
 javac <java_file>.java
 java <executable_named_with_class>
+#to decompile a java bytecode to ascertain the structure of a java class do
+javap <executable>.class
